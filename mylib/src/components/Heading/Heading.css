@@ -1,0 +1,29 @@
+.heading {
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 15px;
+  }
+  
+  .level-1 {
+    font-size: 36px;
+  }
+  
+  .level-2 {
+    font-size: 30px;
+  }
+  
+  .level-3 {
+    font-size: 24px;
+  }
+  
+  .level-4 {
+    font-size: 20px;
+  }
+  
+  .level-5 {
+    font-size: 16px;
+  }
+  
+  .level-6 {
+    font-size: 14px;
+  }
+  

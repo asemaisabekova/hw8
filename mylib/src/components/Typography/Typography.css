@@ -1,0 +1,17 @@
+.typography {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .typography.sm {
+    font-size: 12px;
+  }
+  
+  .typography.md {
+    font-size: 16px;
+  }
+  
+  .typography.lg {
+    font-size: 20px;
+  }
+  

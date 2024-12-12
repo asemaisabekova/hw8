@@ -1,0 +1,51 @@
+/* Общие стили для кнопки */
+.button {
+    font-family: 'Inter', sans-serif;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .button.disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+  
+  /* Размеры кнопок */
+  .button.sm {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  
+  .button.md {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  
+  .button.lg {
+    font-size: 20px;
+    padding: 15px 30px;
+  }
+  
+  /* Варианты стилей кнопок */
+  .button.primary {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .button.primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .button.bordered {
+    background-color: white;
+    color: #007bff;
+    border: 2px solid #007bff;
+  }
+  
+  .button.bordered:hover {
+    background-color: #e7f1ff;
+  }
+  

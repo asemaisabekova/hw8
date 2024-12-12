@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 20px;
+}
